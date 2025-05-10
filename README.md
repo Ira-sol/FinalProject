@@ -18,4 +18,8 @@ filehandler.java (guess what this one does)
 inputvalidator.java (for user prompts)
 inventory & retired text files are for storing the inventory and removed artifacts
 
+clone the repo or open in codespace
 run curiovault.java and pray
+ /\_/\  
+( o.o ) 
+ > ^ <
