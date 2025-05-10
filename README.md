@@ -21,6 +21,4 @@ inventory & retired text files are for storing the inventory and removed artifac
 clone the repo or open in codespace
 run curiovault.java and pray
 
- /\_/\  
-( o.o ) 
- > ^ <
+
