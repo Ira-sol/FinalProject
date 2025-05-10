@@ -3,6 +3,13 @@
 ## Overview of my oh so holy artifacts
 
 we got uhhhhh
+-glasses that impair your vision
+-a pot that turns all your liquids green
+-gauntlet that makes you slower
+-a wishbone that turns you into a wishbone (greed)
+
+
+
 artifacts so put those bad boys in ur inventory
 or retire them
 or make new ones
